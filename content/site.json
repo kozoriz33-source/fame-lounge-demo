@@ -1,0 +1,357 @@
+{
+  "_hinweis": "Alle Texte, Öffnungszeiten, Kontaktdaten und Aktionen der Webseite. Änderungen hier sind nach dem Neuladen der Seite sichtbar. Felder mit \"pruefen\": true vor dem Livegang mit dem Inhaber abstimmen.",
+  "venue": {
+    "name": "Fame Lounge Hannover",
+    "short": "Fame Lounge",
+    "street": "Nikolaistr. 21",
+    "zip": "30159",
+    "city": "Hannover",
+    "phoneDisplay": "0511 70816796",
+    "phoneLink": "+4951170816796",
+    "whatsapp": "",
+    "_whatsapp": "WhatsApp-Nummer für Reservierungen im Format 49151... (ohne + und Leerzeichen). Solange leer, öffnet WhatsApp mit dem Text und man wählt den Kontakt selbst.",
+    "email": "info@fame-lounge.de",
+    "instagram": "fameloungehannover",
+    "facebook": "https://www.facebook.com/fameloungehannover",
+    "google": "https://g.page/fameloungehannover",
+    "routeUrl": "https://www.google.com/maps/dir/?api=1&destination=Fame+Lounge+Hannover%2C+Nikolaistr.+21%2C+30159+Hannover",
+    "mapEmbed": "https://www.google.com/maps?q=Fame+Lounge+Hannover,+Nikolaistr.+21,+30159+Hannover&output=embed",
+    "est": "Est. 2014",
+    "_est": "Aus dem Logo übernommen – Formulierung mit dem Inhaber prüfen.",
+    "motto": "Good Food · Good Drinks · Good Company"
+  },
+  "hours": {
+    "opens": "14:00",
+    "_opens": "EIN Feld für alle Tage. Alte Webseite: 14:00, Instagram-Story 09/2024: 13:00 – mit dem Inhaber klären und nur hier ändern.",
+    "closes": {
+      "Mo": "01:00",
+      "Di": "01:00",
+      "Mi": "01:00",
+      "Do": "01:00",
+      "Fr": "03:00",
+      "Sa": "03:00",
+      "So": "01:00"
+    },
+    "days": {
+      "Mo": "Montag",
+      "Di": "Dienstag",
+      "Mi": "Mittwoch",
+      "Do": "Donnerstag",
+      "Fr": "Freitag",
+      "Sa": "Samstag",
+      "So": "Sonntag"
+    },
+    "happyHourUntil": "17:00"
+  },
+  "rating": {
+    "value": 4.5,
+    "count": 445,
+    "checked": "2026-10-22",
+    "pruefen": true,
+    "_rating": "Von Google Maps abgelesen. Vor dem Livegang neu prüfen."
+  },
+  "hero": {
+    "kicker": "Shisha Lounge · Hannover Mitte",
+    "titles": [
+      {
+        "pre": "Shisha, Drinks",
+        "accent": "& gute Gesellschaft"
+      },
+      {
+        "pre": "Dein Abend in der",
+        "accent": "Fame Lounge"
+      }
+    ],
+    "activeTitle": 0,
+    "subline": "Good Food · Good Drinks · Good Company",
+    "text": "Premium Shisha, hausgemachte Cocktails und Küche, die komplett halal ist – mitten in Hannover, in der Nikolaistraße 21.",
+    "ctaPrimary": "Reservieren",
+    "ctaSecondary": "Speisekarte"
+  },
+  "usps": [
+    {
+      "icon": "halal",
+      "title": "Alles Halal",
+      "text": "Alle Gerichte vollständig halal"
+    },
+    {
+      "icon": "shisha",
+      "title": "Premium Shisha",
+      "text": "Über 35 Sorten & Haus-Mixe"
+    },
+    {
+      "icon": "cocktail",
+      "title": "Hausgemachte Cocktails",
+      "text": "Klassiker & alkoholfreie Drinks"
+    },
+    {
+      "icon": "ball",
+      "title": "Live-Fußball",
+      "text": "Die großen Spiele auf den Screens"
+    },
+    {
+      "icon": "clock",
+      "title": "Happy Hour bis 17 Uhr",
+      "text": "Jeden Tag günstigere Shishas"
+    },
+    {
+      "icon": "sofa",
+      "title": "Lounge-Atmosphäre",
+      "text": "Neonlicht, Blumenwand & bequeme Sessel"
+    }
+  ],
+  "shisha": {
+    "eyebrow": "Unsere Shisha",
+    "title": "Drei Stufen. Ein Ziel: <em>perfekter Rauch.</em>",
+    "text": "Vom Klassiker bis zum Dark Blend mit Phunnel – sag uns, was du magst, wir helfen dir bei der Sortenwahl.",
+    "cards": [
+      {
+        "group": "classic",
+        "label": "Classic",
+        "img": "shisha-turquoise",
+        "text": "Die Klassiker, die immer gehen: Doppelapfel, Zitrone Minze, Love 66, Traube Minze."
+      },
+      {
+        "group": "special",
+        "label": "Special",
+        "img": "hero-shisha",
+        "featured": true,
+        "text": "Über 25 Sorten von Al Massiva bis True Passion – plus unsere Haus-Mixe Fame Mix & Doppelherz."
+      },
+      {
+        "group": "platinum",
+        "label": "Platinum",
+        "img": "bar-violet",
+        "text": "Dark Blend Tabak von Darkside, serviert mit Phunnel. Für alle, die es intensiv mögen."
+      }
+    ],
+    "extraNote": "Phunnel extra + 3,00 € · Happy Hour täglich bis 17 Uhr",
+    "cta": "Alle Sorten ansehen"
+  },
+  "about": {
+    "eyebrow": "Über Fame",
+    "title": "Mehr als eine Lounge – <em>dein Wohnzimmer</em> in Hannover.",
+    "paragraphs": [
+      "Die Fame Lounge ist der Ort für lange Abende: Shisha, Cocktails, gutes Essen und Menschen, mit denen man gern zusammensitzt. Unter der Blumenwand mit dem leuchtenden Fame-Schild trifft man sich nach der Arbeit, zum Fußball oder zum Wochenende.",
+      "In unserer Küche ist alles halal – von der Pizza aus dem Ofen über Fajita und Manti bis zum San Sebastian Cheesecake. Dazu hausgemachte Limonaden und die Klassiker von der Bar."
+    ],
+    "image": "interior-hall",
+    "imageAlt": "Bar und Lounge der Fame Lounge Hannover mit türkisem Licht, Samtsesseln und Holztischen"
+  },
+  "categories": {
+    "eyebrow": "Entdecke unsere Karte",
+    "title": "Was darf’s heute sein?",
+    "tiles": [
+      {
+        "label": "Shisha",
+        "tab": "shisha",
+        "img": "shisha-turquoise",
+        "text": "Classic, Special & Platinum"
+      },
+      {
+        "label": "Cocktails",
+        "tab": "cocktails",
+        "img": "cocktail-redcurrant",
+        "text": "Ab 7,90 €"
+      },
+      {
+        "label": "Speisen",
+        "tab": "speisen",
+        "img": "food-pizza-rucola",
+        "text": "Pizza, Pasta & Specials"
+      },
+      {
+        "label": "Desserts",
+        "tab": "desserts",
+        "img": "dessert-cheesecake",
+        "text": "Süßer Abschluss"
+      },
+      {
+        "label": "Getränke",
+        "tab": "getraenke",
+        "img": "bar-teal",
+        "text": "Softdrinks, Tee & Kaffee"
+      }
+    ]
+  },
+  "cocktails": {
+    "eyebrow": "Signature Cocktails",
+    "title": "Gemixt an unserer Bar. <em>Ab 7,90&nbsp;€.</em>",
+    "text": "Mojito, Pina Colada, Zombie oder Long Island Iced Tea – und für alle ohne Alkohol fünf alkoholfreie Cocktails ab 6,90 €.",
+    "highlights": [
+      "Razz Mojito",
+      "Pina Colada",
+      "Moscow Mule",
+      "Swimming Pool"
+    ],
+    "video": "cocktails-loop",
+    "cta": "Cocktails ansehen"
+  },
+  "speisen": {
+    "eyebrow": "Speisen",
+    "title": "Aus unserer Küche",
+    "badge": "Alle Gerichte halal",
+    "dishes": [
+      {
+        "img": "food-fajita-smoke",
+        "ref": "Fajita",
+        "tab": "speisen",
+        "wide": true
+      },
+      {
+        "img": "food-manti",
+        "ref": "Manti",
+        "tab": "speisen"
+      },
+      {
+        "img": "food-pizza-rucola",
+        "ref": "Panna Rucola",
+        "tab": "speisen",
+        "title": "Pizza Panna Rucola"
+      },
+      {
+        "img": "food-pizzas-top",
+        "group": "pizza",
+        "tab": "speisen",
+        "title": "Pizza aus dem Ofen",
+        "text": "13 Sorten, 28 cm"
+      },
+      {
+        "img": "food-pasta-baked",
+        "ref": "Broccoli al forno",
+        "tab": "speisen"
+      },
+      {
+        "img": "food-pasta-penne",
+        "ref": "Alfredo con Pollo",
+        "tab": "speisen"
+      },
+      {
+        "img": "dessert-lava",
+        "ref": "Lava Cake",
+        "tab": "desserts"
+      },
+      {
+        "img": "dessert-cheesecake",
+        "ref": "San Sebastian Cheesecake",
+        "tab": "desserts"
+      },
+      {
+        "img": "dessert-zimtschnecken",
+        "ref": "Zimtschnecken",
+        "tab": "desserts"
+      }
+    ],
+    "cta": "Ganze Speisekarte"
+  },
+  "aktionen": {
+    "eyebrow": "Aktionen & Events",
+    "title": "Was gerade läuft",
+    "_items": "Karten mit \"aktiv\": false werden nicht angezeigt. Abgelaufene Aktionen hier ausschalten.",
+    "items": [
+      {
+        "aktiv": true,
+        "icon": "clock",
+        "badge": "Täglich",
+        "title": "Happy Hour bis 17 Uhr",
+        "text": "Jeden Tag bis 17 Uhr: Classic Shisha 9 €, Special 10 €, Platinum 15 €.",
+        "link": {
+          "label": "Shisha-Karte",
+          "tab": "shisha"
+        }
+      },
+      {
+        "aktiv": true,
+        "icon": "ball",
+        "badge": "Live",
+        "title": "Live-Fußball",
+        "text": "Die großen Spiele live auf unseren Screens – mit Shisha, Snacks und kalten Drinks. Welche Spiele laufen, steht auf Instagram.",
+        "link": {
+          "label": "@fameloungehannover",
+          "href": "instagram"
+        },
+        "pruefen": true
+      },
+      {
+        "aktiv": true,
+        "icon": "cocktail",
+        "badge": "Wochenende",
+        "title": "Cocktail-Wochenende",
+        "text": "An ausgewählten Wochenenden: alle Cocktails nur 5,00 €. Die nächsten Termine verraten wir auf Instagram.",
+        "video": "cocktails-weekend",
+        "link": {
+          "label": "Termine auf Instagram",
+          "href": "instagram"
+        },
+        "pruefen": true,
+        "_hinweis": "Video vom Inhaber freigegeben. Bedingungen (welche Wochenenden, alle Cocktails?) bestätigen lassen."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Galerie",
+    "title": "Einblicke in die Lounge",
+    "images": [
+      {
+        "img": "bar-teal",
+        "alt": "Bar mit türkisem Licht und Grey-Goose-Flaschen"
+      },
+      {
+        "img": "neon-sign",
+        "alt": "Neonschild Fame mit Flammen-Logo vor Blumenwand",
+        "pos": "14% 50%"
+      },
+      {
+        "img": "cocktail-redcurrant",
+        "alt": "Cocktails mit Johannisbeeren und Minze"
+      },
+      {
+        "img": "interior-hall",
+        "alt": "Bar und Lounge-Bereich mit Samtsesseln"
+      },
+      {
+        "img": "bar-violet",
+        "alt": "Moët-Eiskübel in violettem Licht"
+      },
+      {
+        "img": "shisha-turquoise",
+        "alt": "Türkise Shisha an der Bar"
+      },
+      {
+        "img": "cocktail-colada",
+        "alt": "Pina Colada mit Ananas"
+      },
+      {
+        "img": "dessert-cheesecake",
+        "alt": "San Sebastian Cheesecake mit Fame-Aufsteller"
+      }
+    ],
+    "_hinweis": "Die hellsten Fotos aus Bar, Lounge und Drinks; Reihenfolge = Reihenfolge im Slider."
+  },
+  "reviews": {
+    "eyebrow": "Bewertungen",
+    "title": "Das sagen unsere Gäste",
+    "text": "Lies selbst, was unsere Gäste über ihren Abend in der Fame Lounge schreiben – und erzähl uns nach deinem Besuch, wie es dir gefallen hat.",
+    "cta": "Bewertungen auf Google",
+    "ctaWrite": "Bewertung schreiben"
+  },
+  "contact": {
+    "eyebrow": "Reservierung & Kontakt",
+    "title": "Reserviere deinen Tisch",
+    "text": "Formular ausfüllen – WhatsApp öffnet sich mit deiner fertigen Anfrage. Oder ruf uns einfach an.",
+    "formNote": "Deine Angaben werden nicht auf dieser Webseite gespeichert, sondern nur an WhatsApp übergeben.",
+    "message": "Hallo Fame Lounge, ich möchte gern reservieren:\nName: {name}\nDatum: {datum}\nUhrzeit: {zeit}\nPersonen: {personen}"
+  },
+  "legal": {
+    "age": "Zutritt ab 18 Jahren",
+    "ageLong": "Shisha und alkoholische Getränke nur ab 18 Jahren. Bitte Ausweis mitbringen.",
+    "smoking": "Rauchen gefährdet die Gesundheit. Auch Shisha-Rauch enthält Nikotin, Kohlenmonoxid und andere Schadstoffe.",
+    "pruefen": true,
+    "_legal": "Formulierungen der Warnhinweise mit dem Inhaber / einer Rechtsberatung abstimmen."
+  },
+  "seo": {
+    "siteUrl": "https://www.fame-lounge.de/",
+    "title": "Fame Lounge Hannover – Shisha Lounge, Cocktails & Halal-Küche",
+    "description": "Shisha Lounge in Hannover Mitte (Nikolaistr. 21): Premium Shisha, hausgemachte Cocktails, Pizza, Pasta & Fajita – alles halal. Happy Hour täglich bis 17 Uhr. Jetzt reservieren."
+  }
+}

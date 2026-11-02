@@ -1,0 +1,1495 @@
+{
+  "_hinweis": "Diese Datei steuert die komplette Speisekarte der Webseite. Preise als Zahl (8.9 = 8,90 €). \"codes\" = Zusatzstoffe (siehe \"additives\"). \"check\": true = vor Veröffentlichung mit dem Inhaber prüfen.",
+  "updated": "2026-10-23",
+  "halal": "Alle unsere Gerichte sind vollständig halal.",
+  "additives": {
+    "1": "mit Farbstoff",
+    "2": "mit Konservierungsstoff",
+    "3": "mit Antioxidationsmittel",
+    "4": "koffeinhaltig",
+    "5": "mit Süßungsmittel(n)",
+    "6": "enthält eine Phenylalaninquelle",
+    "7": "taurinhaltig",
+    "8": "chininhaltig"
+  },
+  "notes": {
+    "drinks": "Für die gesetzlich vorgeschriebene Allergenkennzeichnung steht ihnen in unserem Betrieb ein Produktordner mit Angaben zu den verwendeten Zutaten zur Einsichtnahme bereit.",
+    "food": "Liebe Gäste, soweit Sie von Allergien betroffen sind, melden Sie sich beim Service. Gerne gibt Ihnen unsere separate Allergikerkarte Auskunft über die in den Speisen enthaltenen allergenen Zutaten.",
+    "allergens": "Fragen zu Allergenen? Sprich unser Team an – wir zeigen dir gern die Allergikerkarte."
+  },
+  "tabs": [
+    {
+      "id": "shisha",
+      "label": "Shisha",
+      "intro": "Happy Hour jeden Tag bis 17 Uhr: Classic 9 €, Special 10 €, Platinum 15 €.",
+      "groups": [
+        {
+          "id": "platinum",
+          "title": "Platinum Shisha",
+          "price": 19,
+          "happyHour": 15,
+          "note": "Dark Blend Tabak, mit Phunnel",
+          "footnote": "Weitere Dark Blend Sorten auf Anfrage!",
+          "items": [
+            {
+              "name": "Dark Home Mix",
+              "desc": "Hausmischung",
+              "tag": "Haus-Mix"
+            },
+            {
+              "name": "Bnpapa",
+              "desc": "Darkside · Banane"
+            },
+            {
+              "name": "Falling Star",
+              "desc": "Darkside · Mango, Passionsfrucht"
+            },
+            {
+              "name": "Hola",
+              "desc": "Darkside · Cola"
+            },
+            {
+              "name": "LM Blast",
+              "desc": "Darkside · Süße Zitrone"
+            },
+            {
+              "name": "MGAssi",
+              "desc": "Darkside · Mango"
+            },
+            {
+              "name": "Supernova",
+              "desc": "Darkside · Menthol, Minze"
+            }
+          ]
+        },
+        {
+          "id": "special",
+          "title": "Special Shisha",
+          "price": 15,
+          "happyHour": 10,
+          "items": [
+            {
+              "name": "Fame Mix",
+              "desc": "„If you never try you’ll never know“",
+              "tag": "Haus-Mix"
+            },
+            {
+              "name": "Doppelherz",
+              "desc": "Hausmischung",
+              "tag": "Haus-Mix"
+            },
+            {
+              "name": "Sternenstaub",
+              "desc": "030 · Grapefruit, Ice"
+            },
+            {
+              "name": "Beach Vibes",
+              "desc": "187 Tobacco · Himbeere, Limette"
+            },
+            {
+              "name": "Hamburg",
+              "desc": "187 Tobacco · Blaubeere, Brombeere, Erdbeere, Himbeere & Johannisbeere"
+            },
+            {
+              "name": "Cold Peah",
+              "desc": "7 Days · Pfirsich"
+            },
+            {
+              "name": "5 Palm",
+              "desc": "Al Massiva · Erdbeere, Mango, Maracuja & Blaubeere"
+            },
+            {
+              "name": "Blue Beast",
+              "desc": "Al Massiva · Ananas, Brombeere, Blaubeere"
+            },
+            {
+              "name": "Bruderherz",
+              "desc": "Al Massiva · Drachenfrucht"
+            },
+            {
+              "name": "Löwenherz",
+              "desc": "Al Massiva · Drachenfrucht, Himbeere & Pfirsich"
+            },
+            {
+              "name": "Pink King",
+              "desc": "Al Massiva · Himbeere"
+            },
+            {
+              "name": "Sommer in Beirut",
+              "desc": "Al Massiva · Himbeere, Wassermelone & Zitrone"
+            },
+            {
+              "name": "Orange Mint",
+              "desc": "Argileh · Orange, Minze"
+            },
+            {
+              "name": "Black Box",
+              "desc": "Aqua Mentha · Acai, Guarana & Zitrone"
+            },
+            {
+              "name": "Golden Anna",
+              "desc": "Aqua Mentha · Ananas"
+            },
+            {
+              "name": "Falim Red",
+              "desc": "Chaos · Erdbeere, Türkisches Kaugummi"
+            },
+            {
+              "name": "Lemon Frsh",
+              "desc": "Dschinni Tobacco",
+              "check": true
+            },
+            {
+              "name": "Da Bomb",
+              "desc": "Dschinni Tobacco",
+              "check": true
+            },
+            {
+              "name": "Pistazie",
+              "desc": "Dschinni Tobacco",
+              "check": true
+            },
+            {
+              "name": "Vibe",
+              "desc": "Electro Smog · Cola, Limette"
+            },
+            {
+              "name": "Ice Kaktuz",
+              "desc": "Holster · Kaktusfrucht"
+            },
+            {
+              "name": "Black Nana",
+              "desc": "Nameless · Schwarze Traube"
+            },
+            {
+              "name": "African Queen",
+              "desc": "O's Tobacco · Fruchtmix"
+            },
+            {
+              "name": "Bonnie & Clyde",
+              "desc": "O's Tobacco · Grüner Apfel"
+            },
+            {
+              "name": "Leafy",
+              "desc": "Savu · Kaugummi, Minze"
+            },
+            {
+              "name": "Green Bear",
+              "desc": "Savu · Birne, Ice Bonbon"
+            },
+            {
+              "name": "Cinderella",
+              "desc": "True Passion · Wassermelone, Honigmelone, Mango & Maracuja"
+            },
+            {
+              "name": "Okolom",
+              "desc": "True Passion · Holunder, Ingwer & Zitrone"
+            },
+            {
+              "name": "Arctic Line",
+              "desc": "True Passion · Limette & Menthol"
+            }
+          ]
+        },
+        {
+          "id": "classic",
+          "title": "Classic Shisha",
+          "price": 14,
+          "happyHour": 9,
+          "items": [
+            {
+              "name": "Doppelapfel"
+            },
+            {
+              "name": "Zitrone Minze"
+            },
+            {
+              "name": "Love 66"
+            },
+            {
+              "name": "Traube Minze"
+            }
+          ]
+        },
+        {
+          "id": "extras",
+          "title": "Extras",
+          "items": [
+            {
+              "name": "Phunnel",
+              "price": 3,
+              "prefix": "+"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "label": "Cocktails",
+      "groups": [
+        {
+          "id": "cocktails",
+          "title": "Cocktails",
+          "items": [
+            {
+              "name": "Caipirinha",
+              "desc": "Cachaça, Limetten, brauner Zucker",
+              "price": 7.9
+            },
+            {
+              "name": "Cuba Libre",
+              "desc": "weißer Rum, Cola, Limetten",
+              "price": 7.9,
+              "codes": [
+                1,
+                4
+              ]
+            },
+            {
+              "name": "Mojito",
+              "desc": "weißer Rum, Soda, Limetten, brauner Zucker",
+              "price": 7.9
+            },
+            {
+              "name": "Razz Mojito",
+              "desc": "weißer Rum, Sprite, Limetten, Himbeerflavour, Himbeeren",
+              "price": 7.9
+            },
+            {
+              "name": "Moscow Mule",
+              "desc": "Vodka, Ginger Beer, Limetten, Angostura Bitter, Gurken",
+              "price": 8.9
+            },
+            {
+              "name": "Long Island Iced Tea",
+              "desc": "Tequila, weißer Rum, Gin, Cola, Triple Sec, Vodka, Limetten",
+              "price": 8.9,
+              "codes": [
+                1,
+                4
+              ]
+            },
+            {
+              "name": "Mai Tai",
+              "desc": "brauner Rum, Apricot Brandy, Rum 73%, Ananassaft, Mandelsirup",
+              "price": 8.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Zombie",
+              "desc": "weißer Rum, brauner Rum, Rum 73%, Apricot Brandy, Cherry Brandy, Orangensaft, Ananassaft, Grenadine",
+              "price": 8.9,
+              "codes": [
+                1,
+                4,
+                5
+              ]
+            },
+            {
+              "name": "Tequila Sunrise",
+              "desc": "Tequila, Orangensaft, Grenadine",
+              "price": 7.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "Sex on the Beach",
+              "desc": "Vodka, Gin, Peachtree, Maracujasaft, Grenadine",
+              "price": 7.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Touchdown",
+              "desc": "Vodka, Apricot Brandy, Grenadine, Maracujasaft, Ananassaft",
+              "price": 7.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Planters Punch",
+              "desc": "weißer Rum, brauner Rum, Orangensaft, Grenadine",
+              "price": 7.9,
+              "codes": [
+                2
+              ]
+            },
+            {
+              "name": "Swimming Pool",
+              "desc": "weißer Rum, brauner Rum, Vodka, Ananassaft, Kokossahne, Blue Curacao",
+              "price": 7.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "Solero",
+              "desc": "Vodka, 43er Likör, Sahne, Maracujasaft, Orangensaft",
+              "price": 7.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Ladykiller",
+              "desc": "Gin, Apricot Brandy, Grenadine, Maracujasaft, Ananassaft",
+              "price": 7.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Pina Colada",
+              "desc": "weißer Rum, brauner Rum, Kokossahne, Ananassaft",
+              "price": 7.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "Strawberry Colada",
+              "desc": "weißer Rum, brauner Rum, Kokossahne, Ananassaft, Erdbeersirup",
+              "price": 7.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "43er Sour",
+              "desc": "43er Likör, Orangensaft, Zitronensaft, Zuckersirup",
+              "price": 7.9,
+              "codes": [
+                2
+              ]
+            },
+            {
+              "name": "Whiskey Sour",
+              "desc": "Bourbon Whiskey, Zitronensaft, Zuckersirup",
+              "price": 7.9,
+              "codes": [
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alkoholfrei",
+      "label": "Alkoholfrei",
+      "groups": [
+        {
+          "id": "mocktails",
+          "title": "Alkoholfreie Cocktails",
+          "items": [
+            {
+              "name": "Coconut Kiss",
+              "desc": "Ananassaft, Orangensaft, Kokossahne, Grenadine",
+              "price": 6.9,
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Strawberry Kiss",
+              "desc": "Ananassaft, Orangensaft, Kokossahne, Erdbeersirup",
+              "price": 6.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "Ipanema",
+              "desc": "Ginger Ale, Limetten, brauner Zucker",
+              "price": 6.9,
+              "codes": [
+                1,
+                5
+              ]
+            },
+            {
+              "name": "Passionata",
+              "desc": "Maracujasaft, Limetten, brauner Zucker",
+              "price": 6.9
+            },
+            {
+              "name": "Tropical Island",
+              "desc": "Ananassaft, Orangensaft, Grenadine, Maracujasaft, Zitronensaft",
+              "price": 6.9,
+              "codes": [
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "id": "limonade",
+          "title": "Hausgemachte Limonade",
+          "note": "Glas 0.4l",
+          "items": [
+            {
+              "name": "Kokos Limette",
+              "price": 4.9
+            },
+            {
+              "name": "Holunder Limette",
+              "price": 4.9
+            },
+            {
+              "name": "Himbeere Erdbeere",
+              "price": 4.9
+            },
+            {
+              "name": "Mango Maracuja",
+              "price": 4.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "getraenke",
+      "label": "Getränke",
+      "groups": [
+        {
+          "id": "softdrinks",
+          "title": "Softdrinks",
+          "items": [
+            {
+              "name": "San Pellegrino",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.4
+                },
+                {
+                  "label": "0.75l",
+                  "price": 7.4
+                }
+              ]
+            },
+            {
+              "name": "Acqua Panna (Still)",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.4
+                },
+                {
+                  "label": "0.75l",
+                  "price": 7.4
+                }
+              ]
+            },
+            {
+              "name": "Coca-Cola",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1,
+                4
+              ]
+            },
+            {
+              "name": "Coca-Cola Light",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1,
+                4
+              ]
+            },
+            {
+              "name": "Coca-Cola Zero",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1,
+                2,
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "name": "Fanta",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "name": "Sprite",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1
+              ]
+            },
+            {
+              "name": "Mezzo Mix",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.6
+                }
+              ],
+              "codes": [
+                1,
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "name": "Exotica",
+              "prices": [
+                {
+                  "label": "Dose 0.33l",
+                  "price": 3.9
+                }
+              ]
+            },
+            {
+              "name": "Ice Tea Sparkling",
+              "desc": "Peach, Classic Zero",
+              "prices": [
+                {
+                  "label": "Dose 0.33l",
+                  "price": 3.9
+                }
+              ]
+            },
+            {
+              "name": "Uludag",
+              "prices": [
+                {
+                  "label": "Dose 0.33l",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "specials",
+          "title": "Energy & Eistee",
+          "items": [
+            {
+              "name": "Red Bull",
+              "desc": "Classic, Sugarfree, Apricot, Blue, White Edition, Green, Sea Blue, Peach, Summer Edition, Summer Edition Sugarfree",
+              "prices": [
+                {
+                  "label": "Dose 0.25l",
+                  "price": 4.6
+                }
+              ],
+              "codes": [
+                1,
+                4,
+                7
+              ]
+            },
+            {
+              "name": "Elephant Bay Eistee",
+              "desc": "Peach, Peach Zero, Melon, Lemon, Pome, Blueberry, Cherry, Mango Ananas",
+              "prices": [
+                {
+                  "label": "Fl. 0.33l",
+                  "price": 4.6
+                }
+              ]
+            },
+            {
+              "name": "Moloko",
+              "prices": [
+                {
+                  "label": "Dose 0.25l",
+                  "price": 4.6
+                }
+              ]
+            },
+            {
+              "name": "Moloko Zero",
+              "prices": [
+                {
+                  "label": "Dose 0.25l",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "schweppes",
+          "title": "Schweppes",
+          "items": [
+            {
+              "name": "Bitter Lemon",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.7
+                }
+              ],
+              "codes": [
+                3,
+                5,
+                8
+              ]
+            },
+            {
+              "name": "Ginger Ale",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.7
+                }
+              ],
+              "codes": [
+                3
+              ]
+            },
+            {
+              "name": "Tonic Water",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.7
+                }
+              ]
+            },
+            {
+              "name": "Russian Wild Berry",
+              "prices": [
+                {
+                  "label": "0.25l",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "saefte",
+          "title": "Säfte",
+          "note": "0,2 l 3,80 € · 0,4 l 4,80 €",
+          "items": [
+            {
+              "name": "Orange",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ],
+              "codes": [
+                3
+              ]
+            },
+            {
+              "name": "Banane",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ]
+            },
+            {
+              "name": "Kirsch",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ]
+            },
+            {
+              "name": "Ananas",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ],
+              "codes": [
+                3
+              ]
+            },
+            {
+              "name": "Maracuja",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ],
+              "codes": [
+                3
+              ]
+            },
+            {
+              "name": "Kiba",
+              "prices": [
+                {
+                  "label": "0.2l",
+                  "price": 3.8
+                },
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ]
+            },
+            {
+              "name": "Saftschorle",
+              "prices": [
+                {
+                  "label": "0.4l",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "heiss",
+          "title": "Tee & Kaffee",
+          "items": [
+            {
+              "name": "Schwarzer Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Apfel Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Früchte Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Grüner Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Kamillen Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Pfefferminz Tee",
+              "price": 3.2
+            },
+            {
+              "name": "Fame Spezial Tee",
+              "desc": "Frischer Minztee mit Honig und Zitronen",
+              "price": 4.2
+            },
+            {
+              "name": "Heiße Zitrone",
+              "price": 3.8
+            },
+            {
+              "name": "Frischer Ingwertee mit Minze & Honig",
+              "price": 4.4
+            },
+            {
+              "name": "Kaffee",
+              "price": 3.6
+            },
+            {
+              "name": "Cappuccino",
+              "price": 3.9
+            },
+            {
+              "name": "Latte Macchiato",
+              "price": 4.2
+            },
+            {
+              "name": "Hot Chocolate",
+              "price": 3.9
+            },
+            {
+              "name": "Doppelter Espresso",
+              "price": 3.6
+            },
+            {
+              "name": "Espresso",
+              "price": 2.8
+            },
+            {
+              "name": "Honig Extra",
+              "price": 0.8
+            },
+            {
+              "name": "Extra Karamell / Vanille / Haselnuss",
+              "price": 0.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alkohol",
+      "label": "Alkohol",
+      "age": true,
+      "groups": [
+        {
+          "id": "jack",
+          "title": "Jack Daniel’s",
+          "items": [
+            {
+              "name": "Jack Daniel's Old No.7",
+              "desc": "40% vol.",
+              "price": 5.9
+            },
+            {
+              "name": "Jack & Cola",
+              "price": 6.9
+            },
+            {
+              "name": "Jack & Berry",
+              "price": 6.9
+            },
+            {
+              "name": "Jack Honey & Lemonade",
+              "price": 6.9
+            },
+            {
+              "name": "Jack Daniel's Lynchburg Lemonade",
+              "desc": "Whiskey, Triple Sec, Sprite, Zitronensaft, Zuckersirup",
+              "price": 6.9
+            },
+            {
+              "name": "Jack Daniel's Apple",
+              "desc": "35% vol.",
+              "price": 5.9
+            },
+            {
+              "name": "Jack Apple & Peach",
+              "price": 6.9
+            },
+            {
+              "name": "Jack Daniel's Fire",
+              "desc": "35% vol.",
+              "price": 5.9
+            },
+            {
+              "name": "Gentleman Jack",
+              "desc": "40% vol.",
+              "price": 7.9
+            },
+            {
+              "name": "Gentleman Jack & Cola",
+              "price": 8.9
+            },
+            {
+              "name": "Jack Daniel's Single Barrel",
+              "desc": "45% vol.",
+              "price": 8.9
+            }
+          ]
+        },
+        {
+          "id": "spirits",
+          "title": "Spirituosen",
+          "note": "4 cl · Flasche 0,7 l",
+          "footnote": "Longdrink: + Softdrink 0,2 l 1,00 € · + Red Bull / Moloko 0,25 l 2,00 €. Flaschen inkl. 1 l Saft, 1 l Softdrink oder 4 Dosen Red Bull / Moloko; weitere 1 l Saft oder Softdrink 10,00 €.",
+          "items": [
+            {
+              "name": "Chivas Regal",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 6.4
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 89
+                }
+              ]
+            },
+            {
+              "name": "Grey Goose",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 7.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 119
+                }
+              ]
+            },
+            {
+              "name": "Absolut Vodka",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 5.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 79
+                }
+              ]
+            },
+            {
+              "name": "Ciroc Vodka",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 6.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 99
+                }
+              ]
+            },
+            {
+              "name": "Belvedere",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 7.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 119
+                }
+              ]
+            },
+            {
+              "name": "Havana 3 años",
+              "desc": "37,5% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 5.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 69
+                }
+              ]
+            },
+            {
+              "name": "Bombay Sapphire",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 5.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 79
+                }
+              ]
+            },
+            {
+              "name": "Hendricks's Gin",
+              "desc": "44% vol.",
+              "prices": [
+                {
+                  "label": "4 cl",
+                  "price": 6.9
+                },
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 109
+                }
+              ]
+            },
+            {
+              "name": "Jack Daniels",
+              "desc": "40% vol.",
+              "prices": [
+                {
+                  "label": "Fl. 0,7 l",
+                  "price": 79
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bier",
+          "title": "Bier",
+          "items": [
+            {
+              "name": "Heineken",
+              "prices": [
+                {
+                  "label": "Fl. 0,33l",
+                  "price": 4.6
+                }
+              ]
+            },
+            {
+              "name": "Corona Extra",
+              "prices": [
+                {
+                  "label": "Fl. 0,33l",
+                  "price": 4.9
+                }
+              ]
+            },
+            {
+              "name": "Desperados",
+              "prices": [
+                {
+                  "label": "Fl. 0,33l",
+                  "price": 4.9
+                }
+              ]
+            },
+            {
+              "name": "Alster",
+              "prices": [
+                {
+                  "label": "Glas 0,5l",
+                  "price": 5.2
+                }
+              ]
+            },
+            {
+              "name": "Paulaner Hefeweizen",
+              "prices": [
+                {
+                  "label": "Fl. 0,5l",
+                  "price": 4.9
+                }
+              ]
+            },
+            {
+              "name": "Bananen-Hefeweizen",
+              "prices": [
+                {
+                  "label": "Fl. 0,5l",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "wein",
+          "title": "Wein & Champagner",
+          "items": [
+            {
+              "name": "Bianco (Weißwein)",
+              "prices": [
+                {
+                  "label": "Glas 0,2l",
+                  "price": 6.4
+                },
+                {
+                  "label": "Fl. 0,75l",
+                  "price": 22.9
+                }
+              ]
+            },
+            {
+              "name": "Weißweinschorle",
+              "desc": "mit Wasser oder Sprite",
+              "prices": [
+                {
+                  "label": "Glas 0,2l",
+                  "price": 6.4
+                }
+              ]
+            },
+            {
+              "name": "Moët & Chandon Ice",
+              "prices": [
+                {
+                  "label": "Fl. 0,75l",
+                  "price": 119
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "aperitif",
+          "title": "Aperitif",
+          "items": [
+            {
+              "name": "Aperol Spritz",
+              "price": 6.4
+            },
+            {
+              "name": "Hugo",
+              "price": 6.4
+            },
+            {
+              "name": "Lillet White Peach",
+              "price": 6.4
+            },
+            {
+              "name": "Lillet Wild Berry",
+              "price": 6.4
+            }
+          ]
+        },
+        {
+          "id": "shots",
+          "title": "Shots",
+          "note": "je 3,30 €",
+          "items": [
+            {
+              "name": "Berliner Luft",
+              "desc": "18% vol.",
+              "price": 3.3
+            },
+            {
+              "name": "Tequila Silver oder Gold",
+              "desc": "38% vol.",
+              "price": 3.3
+            },
+            {
+              "name": "Jägermeister",
+              "desc": "35% vol.",
+              "price": 3.3
+            },
+            {
+              "name": "Erdbeerlimes",
+              "desc": "35% vol.",
+              "price": 3.3
+            },
+            {
+              "name": "Sambuca",
+              "desc": "40% vol.",
+              "price": 3.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "label": "Snacks",
+      "groups": [
+        {
+          "id": "snacks",
+          "title": "Snacks",
+          "items": [
+            {
+              "name": "Salzstangen",
+              "price": 1.9
+            },
+            {
+              "name": "Obstteller",
+              "price": 8.9
+            },
+            {
+              "name": "Nic Nac's",
+              "price": 3.9
+            },
+            {
+              "name": "Nachos",
+              "desc": "Sauce wahlweise Käse- oder Salsasauce (+ 1,50 €)",
+              "price": 4
+            },
+            {
+              "name": "Haribo Teller",
+              "price": 3.4
+            },
+            {
+              "name": "Getrockneter Mais",
+              "price": 3.2
+            },
+            {
+              "name": "Pistazien",
+              "price": 4.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "speisen",
+      "label": "Speisen",
+      "groups": [
+        {
+          "id": "specials",
+          "title": "Fame Specials",
+          "items": [
+            {
+              "name": "Fajita",
+              "desc": "Rindfleisch, 2 Wraps, Paprika, Zwiebeln, Mexikanische Gewürzmischung",
+              "price": 14.9,
+              "tag": "Signature"
+            },
+            {
+              "name": "Manti",
+              "desc": "Teigtaschen gefüllt mit Rindfleisch, Joghurt-Knoblauch Sauce, Tomaten-Butter Sauce",
+              "price": 14.9,
+              "tag": "Signature"
+            }
+          ]
+        },
+        {
+          "id": "vorspeisen",
+          "title": "Vorspeisen",
+          "items": [
+            {
+              "name": "Bruschetta",
+              "desc": "Ciabatta, Pesto, Tomaten, Zwiebeln, Knoblauch, Rucola, Parmesan",
+              "price": 7.9
+            },
+            {
+              "name": "Gebackener Fetakäse",
+              "desc": "Fetakäse, Olivenöl, Knoblauch, Pepperoni, Cherrytomaten, Tomatensauce",
+              "price": 7.9
+            },
+            {
+              "name": "6 Pizzabrötchen",
+              "desc": "Hausgemachte Pizzabrötchen geschwenkt in Knoblauchöl mit Knoblauchdip",
+              "price": 6.4
+            },
+            {
+              "name": "6 Pizzabrötchen mit Füllung",
+              "desc": "wahlweise mit Sucuk, Schinken-Käse, Salami-Käse oder Feta",
+              "price": 7.4
+            }
+          ]
+        },
+        {
+          "id": "salate",
+          "title": "Salate",
+          "items": [
+            {
+              "name": "Caesar Salat",
+              "desc": "Hähnchenbrust, Eisbergsalat, Cherrytomaten, Walnüsse, Caesar Dressing",
+              "price": 12.9
+            }
+          ]
+        },
+        {
+          "id": "pizza",
+          "title": "Pizza",
+          "note": "28 cm Durchmesser · Basis: Mozzarella, Hausgemachte Pizzasauce",
+          "footnote": "Extra-Topping: Gemüse + 1,00 €, Fleisch + 2,00 €, Sauce Hollandaise + 2,00 €",
+          "items": [
+            {
+              "name": "Margherita",
+              "desc": "Mozzarella, Hausgemachte Pizzasauce, Olivenöl",
+              "price": 10.9
+            },
+            {
+              "name": "Funghi",
+              "desc": "Champignons",
+              "price": 11.9
+            },
+            {
+              "name": "BBQ",
+              "desc": "Rindfleischstreifen, BBQ Sauce, Paprika, Zwiebeln",
+              "price": 14.9
+            },
+            {
+              "name": "Tonno",
+              "desc": "Thunfisch, Rote Zwiebeln",
+              "price": 13.9
+            },
+            {
+              "name": "Panna Rucola",
+              "desc": "Rucola, Cherrytomaten, Parmesan, Olivenöl",
+              "price": 12.9
+            },
+            {
+              "name": "Sucuk",
+              "desc": "Sucuk, Rote Zwiebeln, Milde Peperoni",
+              "price": 14.9
+            },
+            {
+              "name": "Spicy Hähnchen",
+              "desc": "Hähnchenbrust, Paprika, Jalapenos, Mais",
+              "price": 14.9
+            },
+            {
+              "name": "Salami",
+              "desc": "Truthahn-Salami",
+              "price": 13.9
+            },
+            {
+              "name": "Hähnchen Hollandaise",
+              "desc": "Hähnchenbrust, Sauce Hollandaise, Mais, Brokkoli",
+              "price": 14.9
+            },
+            {
+              "name": "Mediterran",
+              "desc": "Schafskäse, Oliven, Zwiebeln",
+              "price": 12.9,
+              "tag": "Neu"
+            },
+            {
+              "name": "Pastirma",
+              "desc": "Pastirma (Türkischer Schinken)",
+              "price": 14.9,
+              "tag": "Neu"
+            },
+            {
+              "name": "Gamberetti",
+              "desc": "Gamberetti, Grüne Oliven, Knoblauch, Cherrytomaten",
+              "price": 14.9
+            },
+            {
+              "name": "Vegetarisch",
+              "desc": "Brokkoli, Paprika, Cherrytomaten, Oliven, Champignons, Zwiebeln",
+              "price": 13.9
+            }
+          ]
+        },
+        {
+          "id": "pasta",
+          "title": "Pasta",
+          "note": "Wahlweise mit: Penne, Spaghetti oder Tagliatelle",
+          "items": [
+            {
+              "name": "Alfredo con Pollo",
+              "desc": "Hähnchenbrust, Sahnesauce, Parmesan, Champignons",
+              "price": 14.9
+            },
+            {
+              "name": "Broccoli al forno",
+              "desc": "Pasta überbacken mit Hähnchen, Champignons, Brokkoli, Sahne, Parmesan",
+              "price": 14.9
+            },
+            {
+              "name": "Curry Chicken Pasta",
+              "desc": "Hähnchen in Curry-Sahnesauce, Muskatnuss",
+              "price": 13.9
+            },
+            {
+              "name": "Fame Spezial Pasta",
+              "desc": "Pasta überbacken mit Hähnchen, Hollandaise, Jalapenos",
+              "price": 14.9
+            },
+            {
+              "name": "Gamberetti",
+              "desc": "Gamberetti, Cherrytomaten, Hausgemachte Tomatensauce, Knoblauch, Zucchini, Parmesan",
+              "price": 14.9
+            },
+            {
+              "name": "Manzo Spinacino",
+              "desc": "Rindfleischstreifen, Spinat, Zwiebeln, Sahnesauce, Parmesan",
+              "price": 14.9
+            },
+            {
+              "name": "Napoli",
+              "desc": "Tomatensauce, Knoblauch",
+              "price": 12.9
+            },
+            {
+              "name": "Pesto Genovese",
+              "desc": "Hausgemachte Pesto Genovese, Parmesan, Pinienkerne",
+              "price": 12.9
+            },
+            {
+              "name": "Rucola di Manzo",
+              "desc": "Rindfleischstreifen, Tomatensahne Sauce, Rucola, Parmesan, Pinienkerne",
+              "price": 14.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "label": "Desserts",
+      "groups": [
+        {
+          "id": "desserts",
+          "title": "Desserts",
+          "items": [
+            {
+              "name": "Lava Cake",
+              "price": 6.9
+            },
+            {
+              "name": "Obstteller",
+              "desc": "Saisonales Obst",
+              "price": 8.9
+            },
+            {
+              "name": "San Sebastian Cheesecake",
+              "desc": "Wahlweise mit Schokoladen- oder Erdbeersauce",
+              "price": 6.4
+            },
+            {
+              "name": "Zimtschnecken",
+              "desc": "Hausgemacht",
+              "priceText": "Preis auf Anfrage",
+              "check": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

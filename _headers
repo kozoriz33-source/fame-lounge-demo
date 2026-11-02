@@ -1,0 +1,28 @@
+# Netlify headers.
+# DEMO ONLY: keep the test link out of search engines. Remove the X-Robots-Tag line before go-live on fame-lounge.de.
+/*
+  X-Robots-Tag: noindex
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/assets/img/*
+  Cache-Control: public, max-age=604800
+
+/assets/video/*
+  Cache-Control: public, max-age=604800
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000
+
+# styles and scripts are re-checked on every visit, so changes show up without Ctrl+F5
+/assets/css/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/js/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/vendor/*
+  Cache-Control: public, max-age=604800
+
+/content/*
+  Cache-Control: public, max-age=0, must-revalidate

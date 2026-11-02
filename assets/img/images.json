@@ -1,0 +1,182 @@
+{
+ "hero-shisha": {
+  "w": 908,
+  "h": 1230,
+  "widths": [
+   480,
+   560,
+   720,
+   908
+  ],
+  "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBgCdASoYACEAPulcpk2pJKOiMBqtUSAdCWwAnTNQCKOgAdPfxc+7kAnck5auM9BwQXxVmXvThSdVeP1C8SgAAP7slXxz1iMQ0Yyw3cJWPykZixHftltEmp1BzdgqzQZ4VUJOPcVFsx8skRmT77PPrSFosHTUpvjqlLQgSMSIuuTDjzaWXSCdB70G0WSsuuuuh24km2ecjjW+gkNBmdQ+T+Jf+Gg3ItXpeVLypTsWziWX5Bfp+bRNm3os2tznWABdm34zQAA="
+ },
+ "neon-sign": {
+  "w": 2576,
+  "h": 1438,
+  "widths": [
+   800,
+   1400,
+   2000
+  ]
+ },
+ "bar-teal": {
+  "w": 1206,
+  "h": 1178,
+  "widths": [
+   400,
+   600,
+   800,
+   1200
+  ]
+ },
+ "bar-violet": {
+  "w": 1206,
+  "h": 1188,
+  "widths": [
+   400,
+   600,
+   800,
+   1200
+  ]
+ },
+ "shisha-turquoise": {
+  "w": 1206,
+  "h": 1445,
+  "widths": [
+   400,
+   600,
+   900,
+   1206
+  ]
+ },
+ "cocktail-redcurrant": {
+  "w": 1180,
+  "h": 1156,
+  "widths": [
+   400,
+   600,
+   900,
+   1180
+  ]
+ },
+ "cocktail-colada": {
+  "w": 719,
+  "h": 1280,
+  "widths": [
+   400,
+   719
+  ]
+ },
+ "dessert-lava": {
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "dessert-cheesecake": {
+  "w": 1086,
+  "h": 1448,
+  "widths": [
+   500,
+   900
+  ]
+ },
+ "dessert-zimtschnecken": {
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   500,
+   960
+  ]
+ },
+ "food-fajita-smoke": {
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "food-fajita": {
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "food-manti": {
+  "w": 976,
+  "h": 732,
+  "widths": [
+   480,
+   800,
+   976
+  ]
+ },
+ "food-pasta-baked": {
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "food-pasta-penne": {
+  "w": 1280,
+  "h": 852,
+  "widths": [
+   480,
+   800,
+   1280
+  ]
+ },
+ "food-pizza-rucola": {
+  "w": 1466,
+  "h": 2200,
+  "widths": [
+   500,
+   900,
+   1400
+  ]
+ },
+ "food-pizzas-top": {
+  "w": 852,
+  "h": 1280,
+  "widths": [
+   500,
+   852
+  ]
+ },
+ "food-pizza-olives": {
+  "w": 852,
+  "h": 1280,
+  "widths": [
+   500,
+   852
+  ]
+ },
+ "interior-flowerwall": {
+  "w": 742,
+  "h": 530,
+  "widths": [
+   500,
+   742
+  ]
+ },
+ "interior-hall": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   600,
+   1000,
+   1600
+  ]
+ }
+}
